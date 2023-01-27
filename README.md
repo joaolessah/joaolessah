@@ -1,9 +1,8 @@
 ### Olá! Eu sou o João
 
 - 🔭 Hoje trabalho como atendente de suporte 
-- 🚀 Pretendo me tornar um desenvolvedor (ainda não decidi se web ou mobile)
-- 🌱 Estudando HTML, CSS e JS
-
+- 🚀 Pretendo me tornar um Analista de Testes
+- 🌱 Estudando Cypress
 
 <div>
   <a href="https://github.com/joaolessah">
