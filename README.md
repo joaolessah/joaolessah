@@ -1,8 +1,6 @@
 ### Olá! Eu sou o João
 
-- 🔭 Hoje trabalho como atendente de suporte 
-- 🚀 Pretendo me tornar um Analista de Sistemas
-- 🌱 Estudando Cypress / Angular
+- 🔭 Hoje trabalho como Customer Success
 
 <div>
   <a href="https://github.com/joaolessah">
